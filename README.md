@@ -1,4 +1,4 @@
-# m5stack-37-buton
+# m5stack-37button
 
 You can make a button that sounds when you press it with M5Stack.
 Please visit [my blog](https://toooybooox.blogspot.com/2018/09/m5stack.html)  for more detail.
@@ -6,7 +6,7 @@ Please visit [my blog](https://toooybooox.blogspot.com/2018/09/m5stack.html)  fo
 This program assumes the following directory structure in SD card.
 
 ```
-mahirun@xivo:/sdcard$ tree
+user@ubuntu:/sdcard$ tree
 .
 ├── alexa.wav
 ├── images
